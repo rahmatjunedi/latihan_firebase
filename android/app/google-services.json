@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186598138943",
+    "project_id": "rahmatproject-firebase",
+    "storage_bucket": "rahmatproject-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186598138943:android:20dc615f73f0c52f8cc48a",
+        "android_client_info": {
+          "package_name": "com.example.project_firebase_rahmat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHixvpeZ4YRAVfCbBKLcbdRIs28UqyYSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
